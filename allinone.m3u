@@ -324,3 +324,6 @@ http://39.136.33.66:6610/000000001001/3000000010000027691/index.m3u8?channel-id=
 http://39.136.33.66:6610/000000001001/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 #EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕直播-53
 http://39.136.33.66:6610/000000001001/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
